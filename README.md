@@ -1,4 +1,4 @@
-# The Future in Tech
+# John Patrick Baldorado
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
